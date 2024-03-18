@@ -367,6 +367,7 @@ MonoBehaviour:
   endText: {fileID: 504445638}
   endGameObject: {fileID: 300429579}
   score: {fileID: 409416810}
+  scoreCount: 0
 --- !u!1 &409416808
 GameObject:
   m_ObjectHideFlags: 0
